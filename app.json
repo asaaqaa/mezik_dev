@@ -1,6 +1,6 @@
 {
     "name": "quran bot",
-    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "description": "أهـلًا بـك عــزيـزي من هـنا يمكنـك تــنـصـيب بوت تشغيل القرآن الكريم في المحـادثـات الـصـوتـيـة",
     "logo": "https://telegra.ph/file/d43298f27a41133786d1f.jpg",
     "keywords": [
     "python3",
@@ -13,52 +13,52 @@
     ],
     "env": {
       "API_ID": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "قـم باسـتـخراج الأيبي أيدي من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "API_HASH": {
-        "description": "Get this value from https://my.telegram.org",
+        "description": "قـم بـاسـتخراج أيبي هاش من هنا https://my.telegram.org",
         "value": "",
         "required": true
       },
       "BOT_TOKEN": {
-        "description": "A Bot's token from Botfather",
+        "description": "يـجـب عليك اسـتـخراج توكـن البوت من @Botfather",
         "value": "",
         "required": true
       },
       "MONGO_DB_URI": {
-        "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "description": "لا تعبث بالرابط https://cloud.mongodb.com.",
+        "value": "mongodb+srv://SEMO1:SEMO1@cluster0.rusaedi.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
-        "description": "A name for your Music Bot. You can use special characters bot ko jhaat farak ni padega",
-        "value": "ᴀɴᴏɴ ダ ᴍᴜsɪᴄ",
+        "description": "اسـم البــبوت",
+        "value": "القـرآن الـكـريم",
         "required": true
       },
       "OWNER_ID": {
-        "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "description": "الأيدي الخاص بك .",
         "value": "",
         "required": true
       },
       "STRING_SESSION": {
-        "description": "A Pyrogram String Session. One Assistant is Compulsory.",
+        "description": "جـلسـة البايروجـرام استخرجها من هنا @TepthonSessionBot",
         "value": "",
         "required": true
       },
       "HEROKU_API_KEY": {
-        "description": "Your Heroku account's API key",
+        "description": "الأيبي كي الخاص بك",
         "value": "",
         "required": false
       },
       "HEROKU_APP_NAME": {
-        "description": "Your heroku app/bot's name",
+        "description": "اسم التطبيق الذي وضعته فوق",
         "value": "",
         "required": false
       },
       "LOG_GROUP_ID": {
-        "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
+        "description": "ايـدي مـجمـوعة التـخـزيـن يجب عليك إضافـة الحـسـاب المـساعد والبوت في المـجموعـة ورفعهما مشرفان",
         "value": "",
         "required": true
       }
