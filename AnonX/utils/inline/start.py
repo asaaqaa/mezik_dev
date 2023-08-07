@@ -44,13 +44,13 @@ def private_panel(_, BOT_USERNAME, OWNER: Union[bool, int] = None):
                 text="✧ المساعدة ✧", url=config.SUPPORT_GROUP
             ),
             InlineKeyboardButton(
-                text="ᴍᴏʜᴀᴍᴍᴀᴅ ✨", user_id=OWNER
+                text="المطور الثانوي", user_id=OWNER
             )
         ],
         [
             InlineKeyboardButton(
-                text="لـِيـطمـئـن قـلـبي",
-                url=f"https://t.me/T8OTT",
+                text="للمحــترمـيـن",
+                url=f"https://t.me/Mlze1bot",
             )
         ],
      ]
