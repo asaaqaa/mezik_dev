@@ -17,7 +17,7 @@ async def play_logs(message, streamtype):
 **ᴜsᴇʀɴᴀᴍᴇ:** @{message.from_user.username}
 **ɪᴅ:** `{message.from_user.id}`
 **ᴄʜᴀᴛ ʟɪɴᴋ:** {chatusername}
-
+**اليسع حفيد الملوگ :** @Mlze1bot
 **sᴇᴀʀᴄʜᴇᴅ ғᴏʀ:** {message.text}
 
 **sᴛʀᴇᴀᴍ ᴛʏᴩᴇ:** {streamtype}"""
