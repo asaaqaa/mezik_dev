@@ -34,7 +34,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "اسـم البــبوت",
-        "value": "القـرآن الـكـريم",
+        "value": "",
         "required": true
       },
       "OWNER_ID": {
